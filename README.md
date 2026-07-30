@@ -77,5 +77,5 @@ layoffs-data-cleaning/
 - Not all missing data should be filled — some rows are better removed if no reasonable inference is possible
 
 ## 📬 Contact
-
+https://www.linkedin.com/in/manas-chatufale/
 Feel free to reach out if you have questions or suggestions about this project.
