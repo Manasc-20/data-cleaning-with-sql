@@ -60,7 +60,7 @@ layoffs-data-cleaning/
 ├── sql/
 │   └── data_cleaning.sql
 └── data/
-    └── layoffs_raw.csv   (optional, if license allows sharing)
+    └── layoffs_raw.csv (Data source: layoffs.fyi, via Kaggle (Layoffs 2022 dataset))
 ```
 
 ## ▶️ How to Run
